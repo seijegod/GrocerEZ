@@ -1,0 +1,2 @@
+# GrocerEZ
+Django Project
